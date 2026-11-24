@@ -1,0 +1,43 @@
+# Manalens: the analytics and growth engine built for games
+
+Manalens shows which channels and campaigns bring wishlists, players, and sales on Steam and itch.io.
+
+One player ID follows each person from your website, to your game, and to your Steam page. You see the full path from the first click to the first launch, in one dashboard.
+
+Manalens is available through our [web SDK](https://github.com/manalens/manalens-js), [Godot plugin](https://github.com/manalens/manalens-godot), [Unity package](https://github.com/manalens/manalens-unity), and [HTTP API](https://docs.manalens.dev).
+
+## Features
+
+- 🎯 Steam attribution: UTM-tagged store links, wishlists, and purchases by campaign
+- 🛒 itch.io attribution: purchases and donations matched to the source of each sale
+- 🚀 Install attribution: each first game launch credited to the website visit that came before it
+- 📈 Player retention: D1, D7, and D30 cohorts, returning players, sessions, and funnels
+- 🧩 Custom events and dashboards for your game
+- 🐞 Error and crash tracking from the game client
+- 💳 Stripe and Paddle revenue for games that sell on their own website
+- 🔒 Privacy first: first-party anonymous IDs, optional consent mode, no raw IP addresses stored
+- 📴 Offline queue: events from the game are kept and sent when the player is back online
+- 🤖 AI ready: an MCP server and a one-prompt install for Cursor, Claude Code, and Codex
+
+You can learn more about these features on our website: [manalens.dev](https://manalens.dev/features).
+
+## SDKs
+
+| SDK | Use it for | License |
+| --- | --- | --- |
+| [manalens-js](https://github.com/manalens/manalens-js) | Your game website and web games | MIT |
+| [manalens-godot](https://github.com/manalens/manalens-godot) | Godot 4 games (plain GDScript) | MIT |
+| [manalens-unity](https://github.com/manalens/manalens-unity) | Unity games (no dependencies) | MIT |
+
+## Links
+
+- [Website](https://manalens.dev)
+- [Documentation](https://docs.manalens.dev)
+- [Install guides](https://manalens.dev/integrations)
+- [Examples](https://github.com/manalens/examples): Next.js, React, Astro, HTML, Express, Electron, Three.js, Godot, Unity, Unreal, and Stripe or Paddle
+- [Changelog](https://manalens.dev/changelog)
+- [Status](https://status.manalens.dev)
+
+## Get help
+
+Have a question or feedback? [Chat with us](https://manalens.dev/support) or [book a demo](https://cal.com/manalens/demo).
