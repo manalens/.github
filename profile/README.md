@@ -1,8 +1,6 @@
 # Manalens: the analytics and growth engine built for games
 
-Manalens shows which channels and campaigns bring wishlists, players, and sales on Steam and itch.io.
-
-One player ID follows each person from your website, to your game, and to your Steam page. You see the full path from the first click to the first launch, in one dashboard.
+![Manalens: the analytics and growth engine built for games](banner.png)
 
 Manalens is available through our [web SDK](https://github.com/manalens/manalens-js), [Godot plugin](https://github.com/manalens/manalens-godot), [Unity package](https://github.com/manalens/manalens-unity), and [HTTP API](https://docs.manalens.dev).
 
