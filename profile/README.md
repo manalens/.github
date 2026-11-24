@@ -12,9 +12,7 @@ Manalens is available through our [web SDK](https://github.com/manalens/manalens
 - 📈 Player retention: D1, D7, and D30 cohorts, returning players, sessions, and funnels
 - 🧩 Custom events and dashboards for your game
 - 🐞 Error and crash tracking from the game client
-- 💳 Stripe and Paddle revenue for games that sell on their own website
 - 🔒 Privacy first: first-party anonymous IDs, optional consent mode, no raw IP addresses stored
-- 📴 Offline queue: events from the game are kept and sent when the player is back online
 - 🤖 AI ready: an MCP server and a one-prompt install for Cursor, Claude Code, and Codex
 
 You can learn more about these features on our website: [manalens.dev](https://manalens.dev/features).
