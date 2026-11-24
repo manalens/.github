@@ -30,7 +30,7 @@ You can learn more about these features on our website: [manalens.dev](https://m
 - [Website](https://manalens.dev)
 - [Documentation](https://docs.manalens.dev)
 - [Install guides](https://manalens.dev/integrations)
-- [Examples](https://github.com/manalens/examples): Next.js, React, Astro, HTML, Express, Electron, Three.js, Godot, Unity, Unreal, and Stripe or Paddle
+- [Examples](https://github.com/manalens/examples)
 - [Changelog](https://manalens.dev/changelog)
 - [Status](https://status.manalens.dev)
 
